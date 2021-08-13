@@ -83,6 +83,6 @@ if st.button('Intercorrelation Heatmap'):
     st.pyplot()
 
 
-    st.subheader('Completed by Adubi Olubunmi')
-
+    
+st.subheader('Completed by Adubi Olubunmi')
 st.set_option('deprecation.showPyplotGlobalUse', False)
