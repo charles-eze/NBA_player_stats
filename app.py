@@ -82,4 +82,7 @@ if st.button('Intercorrelation Heatmap'):
         ax = sns.heatmap(corr, mask=mask, vmax=1, square=True)
     st.pyplot()
 
+
+    st.subheader('Completed by Adubi Olubunmi')
+
 st.set_option('deprecation.showPyplotGlobalUse', False)
